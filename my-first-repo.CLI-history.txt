@@ -1,0 +1,22 @@
+    1  pwd
+    2  ls
+    3  history
+    4  clear
+    5  git-flow 
+    6  clear
+    7  mkdir my-first-repo
+    8  cd my-first-repo/
+    9  git init
+   10  touch index.html style.css
+   11  ls .
+   12  git .
+   13  git
+   14  git add .
+   15  git status
+   16  git commit -m "Started up project"
+   17  git remote add origin https://github.com/linuxnt64/my-first-repo.git
+   18  git remote -v
+   19  git push origin master
+   20  git push origin master
+   21  history
+   22  history > my-first-repo.CLI-history.txt
